@@ -12,3 +12,5 @@ console.log(numero + numeroString);
 //função Number() e String()
 
 console.log(numero + numeroString);
+
+
